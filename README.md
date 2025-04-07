@@ -1,5 +1,5 @@
 # depian
-My custom debian installer.
+My custom debian installation image.
 
 As root:
 ```
