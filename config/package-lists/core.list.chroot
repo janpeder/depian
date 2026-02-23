@@ -2,3 +2,4 @@ task-gnome-desktop
 build-essential
 manpages-dev
 info
+util-linux-extra
